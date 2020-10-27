@@ -1,4 +1,5 @@
- Hi there 👋
+ <h1>Hi there 👋, I'm Siddharth Reddy</h1> 
+ 
 <!--
 **SiddTim/SiddTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=d4rkc0nd0r&theme=synthwave&count_private=true&show_icons=true&hide_border=true)
